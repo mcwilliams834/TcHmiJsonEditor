@@ -21,6 +21,21 @@
         "waitMode": "Synchronous"
       }
     ]
+  },
+  {
+    "event": "%s%PLC1.MAIN.myString%/s%",
+    "actions": [
+      {
+        "objectType": "JavaScript",
+        "active": true,
+        "sourceLines": [
+          "refresh();"
+        ],
+        "injectContextObject": false,
+        "asyncWait": true,
+        "waitMode": "Synchronous"
+      }
+    ]
   }
 ]
 </script>

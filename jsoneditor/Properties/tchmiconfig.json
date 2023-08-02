@@ -75,6 +75,11 @@
       "name": "Globals/Globals.js",
       "description": "",
       "type": "JavaScript"
+    },
+    {
+      "name": "Functions/RefreshEditor.js",
+      "description": "",
+      "type": "JavaScript"
     }
   ],
   "userControls": [],

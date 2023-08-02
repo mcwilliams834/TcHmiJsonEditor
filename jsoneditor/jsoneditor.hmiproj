@@ -136,6 +136,9 @@
     <Content Include="Functions\CreateEditor.js">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Functions\RefreshEditor.js">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Functions\WriteJsonToPlc.js">
       <SubType>Content</SubType>
     </Content>
