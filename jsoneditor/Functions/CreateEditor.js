@@ -17,6 +17,7 @@ function InitEditor() {
 
             console.log("initialJson: " + initialJson);
             editor.set(initialJson);
+            editor.expandAll();
 
             // get json
             const updatedJson = editor.get();
