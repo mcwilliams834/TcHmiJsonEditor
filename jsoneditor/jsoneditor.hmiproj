@@ -139,6 +139,9 @@
     <Content Include="Functions\WriteJsonToPlc.js">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Globals\Globals.js">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Libs\img\jsoneditor-icons.svg">
       <SubType>Content</SubType>
     </Content>

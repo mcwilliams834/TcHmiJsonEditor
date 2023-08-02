@@ -70,6 +70,11 @@
       "name": "Libs/jsoneditor.min.css",
       "description": "",
       "type": "Stylesheet"
+    },
+    {
+      "name": "Globals/Globals.js",
+      "description": "",
+      "type": "JavaScript"
     }
   ],
   "userControls": [],

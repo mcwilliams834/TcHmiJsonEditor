@@ -10,7 +10,7 @@ function InitEditor() {
             // create the editor
             const container = document.getElementById("jsoneditor");
             const options = {};
-            const editor = new JSONEditor(container, options);
+            editor = new JSONEditor(container, options);
             var initialJson = {};
             // set json
             initialJson = JSON.parse(value);
